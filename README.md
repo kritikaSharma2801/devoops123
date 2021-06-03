@@ -1,2 +1,2 @@
 # devoops123
-combination of development and operations
+Added informaion about Ritika Sharma
